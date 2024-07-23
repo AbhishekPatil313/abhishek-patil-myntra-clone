@@ -2,10 +2,7 @@
 
 ## Implemented the add to cart functionality and managed the state using __redux-tookit__.
 
-## Getting Started
-## hello there!
-first this is to do 
-First, install the dependencies:
+
 
 ```bash
 npm install

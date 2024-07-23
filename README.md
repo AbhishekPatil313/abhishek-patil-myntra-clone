@@ -3,7 +3,7 @@
 ## Implemented the add to cart functionality and managed the state using __redux-tookit__.
 
 ## Getting Started
-this is hhe final warning from a god!!
+this is hhe final warning from a 
 
 First, install the dependencies:
 

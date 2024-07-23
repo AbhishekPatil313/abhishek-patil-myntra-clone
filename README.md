@@ -3,6 +3,7 @@
 ## Implemented the add to cart functionality and managed the state using __redux-tookit__.
 
 ## Getting Started
+hello this is the game
 
 First, install the dependencies:
 

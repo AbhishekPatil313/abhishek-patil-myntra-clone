@@ -1,8 +1,7 @@
 # Link - https://abhishek-patil-myntra-clone.vercel.app/
 
 ## Implemented the add to cart functionality and managed the state using __redux-tookit__.
-## AKIAZQ3DPJ3XBK2GBCED
-## key- G/UXBVxQA68Nf+5aMFRknzDuN1r/ouc1WceuerHa
+
 ## Getting Started
 ## hello there!
 first this is to do 
